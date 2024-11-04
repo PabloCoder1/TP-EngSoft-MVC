@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c8bac44-e061-4e41-8f7f-3f074660dcd2": {
+      "ProjectGuid": "2c8bac44-e061-4e41-8f7f-3f074660dcd2",
+      "DisplayName": "DemoMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
